@@ -7,6 +7,6 @@
 ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkR5-WRAKwN7BsQcvac35vh_zz11eflpQKg&usqp=CAU)
 
 
-<div style="width:60px ; height:60px" ; text-align:center">
-![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkR5-WRAKwN7BsQcvac35vh_zz11eflpQKg&usqp=CAU)
+<div style="text-align:center">
+  ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkR5-WRAKwN7BsQcvac35vh_zz11eflpQKg&usqp=CAU)
 </div>
