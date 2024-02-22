@@ -4,4 +4,4 @@
 
 
 
-![Python](https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)
+![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkR5-WRAKwN7BsQcvac35vh_zz11eflpQKg&usqp=CAU)
