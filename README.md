@@ -4,4 +4,4 @@
 
 [100 Days of Code](https://100daysofpython.dev/)
 
-![Python][https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png]
+![Python](https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)
